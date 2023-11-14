@@ -25,12 +25,5 @@ namespace CleanArchitectureAPI.Controllers
             var response = await _mediator.Send(request);
             return Ok(response);
         }
-
-        [HttpGet]
-        [Route("{id}")]
-        public IActionResult GetUser([FromRoute] int id)
-        {
-            return Ok();
-        }
     }
 }

@@ -13,3 +13,18 @@ C:\Users\lucia\source\repos\CleanCodeApplication\CleanCodeApplication\bin\Debug\
 C:\Users\lucia\source\repos\CleanCodeApplication\CleanCodeApplication\bin\Debug\net6.0\CleanArchitectureDomain.pdb
 C:\Users\lucia\source\repos\CleanCodeApplication\CleanCodeApplication\obj\Debug\net6.0\CleanArchitectureApplication.csproj.AssemblyReference.cache
 C:\Users\lucia\source\repos\CleanCodeApplication\CleanCodeApplication\obj\Debug\net6.0\CleanArchitectureApplication.csproj.CopyComplete
+C:\Repository\Code Clean Back\CleanCodeApplication\bin\Debug\net6.0\CleanArchitectureApplication.deps.json
+C:\Repository\Code Clean Back\CleanCodeApplication\bin\Debug\net6.0\CleanArchitectureApplication.dll
+C:\Repository\Code Clean Back\CleanCodeApplication\bin\Debug\net6.0\CleanArchitectureApplication.pdb
+C:\Repository\Code Clean Back\CleanCodeApplication\bin\Debug\net6.0\CleanArchitectureDomain.dll
+C:\Repository\Code Clean Back\CleanCodeApplication\bin\Debug\net6.0\CleanArchitectureDomain.pdb
+C:\Repository\Code Clean Back\CleanCodeApplication\obj\Debug\net6.0\CleanArchitectureApplication.csproj.AssemblyReference.cache
+C:\Repository\Code Clean Back\CleanCodeApplication\obj\Debug\net6.0\CleanArchitectureApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Code Clean Back\CleanCodeApplication\obj\Debug\net6.0\CleanArchitectureApplication.AssemblyInfoInputs.cache
+C:\Repository\Code Clean Back\CleanCodeApplication\obj\Debug\net6.0\CleanArchitectureApplication.AssemblyInfo.cs
+C:\Repository\Code Clean Back\CleanCodeApplication\obj\Debug\net6.0\CleanArchitectureApplication.csproj.CoreCompileInputs.cache
+C:\Repository\Code Clean Back\CleanCodeApplication\obj\Debug\net6.0\CleanArchitectureApplication.csproj.CopyComplete
+C:\Repository\Code Clean Back\CleanCodeApplication\obj\Debug\net6.0\CleanArchitectureApplication.dll
+C:\Repository\Code Clean Back\CleanCodeApplication\obj\Debug\net6.0\refint\CleanArchitectureApplication.dll
+C:\Repository\Code Clean Back\CleanCodeApplication\obj\Debug\net6.0\CleanArchitectureApplication.pdb
+C:\Repository\Code Clean Back\CleanCodeApplication\obj\Debug\net6.0\ref\CleanArchitectureApplication.dll

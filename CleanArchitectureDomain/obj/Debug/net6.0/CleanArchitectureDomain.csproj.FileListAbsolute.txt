@@ -9,3 +9,14 @@ C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureDomain\obj\Deb
 C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureDomain\obj\Debug\net6.0\refint\CleanArchitectureDomain.dll
 C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureDomain\obj\Debug\net6.0\CleanArchitectureDomain.pdb
 C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureDomain\obj\Debug\net6.0\ref\CleanArchitectureDomain.dll
+C:\Repository\Code Clean Back\CleanArchitectureDomain\bin\Debug\net6.0\CleanArchitectureDomain.deps.json
+C:\Repository\Code Clean Back\CleanArchitectureDomain\bin\Debug\net6.0\CleanArchitectureDomain.dll
+C:\Repository\Code Clean Back\CleanArchitectureDomain\bin\Debug\net6.0\CleanArchitectureDomain.pdb
+C:\Repository\Code Clean Back\CleanArchitectureDomain\obj\Debug\net6.0\CleanArchitectureDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Code Clean Back\CleanArchitectureDomain\obj\Debug\net6.0\CleanArchitectureDomain.AssemblyInfoInputs.cache
+C:\Repository\Code Clean Back\CleanArchitectureDomain\obj\Debug\net6.0\CleanArchitectureDomain.AssemblyInfo.cs
+C:\Repository\Code Clean Back\CleanArchitectureDomain\obj\Debug\net6.0\CleanArchitectureDomain.csproj.CoreCompileInputs.cache
+C:\Repository\Code Clean Back\CleanArchitectureDomain\obj\Debug\net6.0\CleanArchitectureDomain.dll
+C:\Repository\Code Clean Back\CleanArchitectureDomain\obj\Debug\net6.0\refint\CleanArchitectureDomain.dll
+C:\Repository\Code Clean Back\CleanArchitectureDomain\obj\Debug\net6.0\CleanArchitectureDomain.pdb
+C:\Repository\Code Clean Back\CleanArchitectureDomain\obj\Debug\net6.0\ref\CleanArchitectureDomain.dll

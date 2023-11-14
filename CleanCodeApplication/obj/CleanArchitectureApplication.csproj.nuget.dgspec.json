@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanCodeApplication\\CleanArchitectureApplication.csproj": {}
+    "C:\\Repository\\Code Clean Back\\CleanCodeApplication\\CleanArchitectureApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj": {
+    "C:\\Repository\\Code Clean Back\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj",
+        "projectUniqueName": "C:\\Repository\\Code Clean Back\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj",
         "projectName": "CleanArchitectureDomain",
-        "projectPath": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj",
+        "projectPath": "C:\\Repository\\Code Clean Back\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanArchitectureDomain\\obj\\",
+        "outputPath": "C:\\Repository\\Code Clean Back\\CleanArchitectureDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanCodeApplication\\CleanArchitectureApplication.csproj": {
+    "C:\\Repository\\Code Clean Back\\CleanCodeApplication\\CleanArchitectureApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanCodeApplication\\CleanArchitectureApplication.csproj",
+        "projectUniqueName": "C:\\Repository\\Code Clean Back\\CleanCodeApplication\\CleanArchitectureApplication.csproj",
         "projectName": "CleanArchitectureApplication",
-        "projectPath": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanCodeApplication\\CleanArchitectureApplication.csproj",
+        "projectPath": "C:\\Repository\\Code Clean Back\\CleanCodeApplication\\CleanArchitectureApplication.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanCodeApplication\\obj\\",
+        "outputPath": "C:\\Repository\\Code Clean Back\\CleanCodeApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj": {
-                "projectPath": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj"
+              "C:\\Repository\\Code Clean Back\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj": {
+                "projectPath": "C:\\Repository\\Code Clean Back\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj"
               }
             }
           }

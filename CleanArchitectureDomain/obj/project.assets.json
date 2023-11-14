@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj",
+      "projectUniqueName": "C:\\Repository\\Code Clean Back\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj",
       "projectName": "CleanArchitectureDomain",
-      "projectPath": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj",
+      "projectPath": "C:\\Repository\\Code Clean Back\\CleanArchitectureDomain\\CleanArchitectureDomain.csproj",
       "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanArchitectureDomain\\obj\\",
+      "outputPath": "C:\\Repository\\Code Clean Back\\CleanArchitectureDomain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D97xoQnkFxVZCFHFw9MKnC8vbTOBPsNruBauIzQDOFjw/cQXFtwMf84yMNzzY/5nW4D5hPnFbWbJCuKo843Ktg==",
+  "dgSpecHash": "0np0pXmHFeGc+/CVGa+f9R4BO99F6GWyVgw4Nn2Zbo+Sadxdn1ihRWIGmpaEVGz/9L9hCSqSVPOygXTm3yPkGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucia\\source\\repos\\CleanCodeApplication\\CleanArchitectureAPI\\CleanArchitectureAPI.csproj",
+  "projectFilePath": "C:\\Repository\\Code Clean Back\\CleanArchitectureAPI\\CleanArchitectureAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucia\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\lucia\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
