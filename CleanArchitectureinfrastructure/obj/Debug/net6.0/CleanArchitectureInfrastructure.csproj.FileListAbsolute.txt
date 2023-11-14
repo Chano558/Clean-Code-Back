@@ -1,0 +1,17 @@
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\bin\Debug\net6.0\CleanArchitectureInfrastructure.deps.json
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\bin\Debug\net6.0\CleanArchitectureInfrastructure.dll
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\bin\Debug\net6.0\CleanArchitectureInfrastructure.pdb
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\bin\Debug\net6.0\CleanArchitectureApplication.dll
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\bin\Debug\net6.0\CleanArchitectureDomain.dll
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\bin\Debug\net6.0\CleanArchitectureApplication.pdb
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\bin\Debug\net6.0\CleanArchitectureDomain.pdb
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\obj\Debug\net6.0\CleanArchitectureInfrastructure.csproj.AssemblyReference.cache
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\obj\Debug\net6.0\CleanArchitectureInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\obj\Debug\net6.0\CleanArchitectureInfrastructure.AssemblyInfoInputs.cache
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\obj\Debug\net6.0\CleanArchitectureInfrastructure.AssemblyInfo.cs
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\obj\Debug\net6.0\CleanArchitectureInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\obj\Debug\net6.0\CleanArchitectureInfrastructure.csproj.CopyComplete
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\obj\Debug\net6.0\CleanArchitectureInfrastructure.dll
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\obj\Debug\net6.0\refint\CleanArchitectureInfrastructure.dll
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\obj\Debug\net6.0\CleanArchitectureInfrastructure.pdb
+C:\Users\lucia\source\repos\CleanCodeApplication\CleanArchitectureinfrastructure\obj\Debug\net6.0\ref\CleanArchitectureInfrastructure.dll
