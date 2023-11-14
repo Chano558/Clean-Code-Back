@@ -15,6 +15,9 @@ namespace CleanArchitectureInfrastructure.DataBase
             builder.Property(u => u.UserId)
                 .HasColumnName("id_usuario");
 
+            builder.Property(u => u.Name)
+             .HasColumnName("Nombre");
+
             builder.Property(u => u.RoleId)
                 .HasColumnName("id_rol");
 

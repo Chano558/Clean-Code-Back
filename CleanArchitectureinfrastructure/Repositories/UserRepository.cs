@@ -31,14 +31,5 @@ namespace CleanArchitectureInfrastructure.Repositories
 
             return users;
         }
-
-        public User? GetUser(int id)
-        {
-            var user = _dbContext.Set<User>()
-                 .Include(x => x.Role)
-                 .FirstOrDefault(x => x.UserId == id.ToString());
-
-            return user;
-        }
     }
 }

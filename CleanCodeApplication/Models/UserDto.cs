@@ -14,5 +14,7 @@ namespace CleanArchitectureApplication.Models
         public string? RoleName { get; set; }
 
         public bool? RoleIsDefault { get; set; }
+
+        public string? Name { get; set; }
     }
 }

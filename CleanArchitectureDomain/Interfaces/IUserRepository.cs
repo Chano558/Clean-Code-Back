@@ -9,8 +9,6 @@ namespace CleanArchitectureDomain.Interfaces
 {
     public interface IUserRepository
     {
-        User? GetUser(int id);
-
         List<User> GetList(DateTime? From = null, DateTime? To = null);
     }
 }
